@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my own website**
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **SAP**
 
 - 📫 How to reach me **goncalomiguelcs@gmail.com**
 
